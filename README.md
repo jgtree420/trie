@@ -31,10 +31,10 @@ $L$ = Length of the word
 *  **IP Routing:** Longest prefix matching in network routers.
 
 
-sources:  
+## Sources:  
 **google search words**  
 https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
 
-**books/blogs/videos used for research**  
+**books/videos used for research**  
 Data Structures the Fun Way - Jeremy Kubica  
 NeuralNine - Trie - Data Structures in Python #7 - https://youtu.be/y3qN18t-AhQ?si=1l1NPfJMPHjdbSg7 
